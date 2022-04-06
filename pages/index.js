@@ -24,7 +24,7 @@ export default class extends Component {
 
                 <p>Get started by creating an account </p><br/>
                 <button className="create-account">Create Account</button>
-                <p classNam='wait'></p>
+                <p id='wait'></p>
             </section>
             <section className='accounts' id="account">
                 <h1>Accounts</h1><br />
